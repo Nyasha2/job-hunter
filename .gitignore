@@ -20,3 +20,4 @@ office/**/job_profile.json
 office/**/resume.txt
 
 office/**/*.jsonl
+office/*.jsonl
