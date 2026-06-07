@@ -10,6 +10,12 @@ backend/.venv/
 
 backend/.env
 .env
+**/.env
+**/.env.local
+office/**/calendar_config.json
+office/**/calendar_config.local.json
+office/**/assistant_calendar.ics
+**/*private*.ics
 office/**/job_profile.json
 office/**/resume.txt
 

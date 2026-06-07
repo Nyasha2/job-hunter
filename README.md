@@ -120,6 +120,8 @@ cd backend
 |----------|----------|---------|
 | `ANTHROPIC_API_KEY` | Yes | Screener/matcher agents + assistant |
 
+No calendar URL is required. If you add one later, keep it in `backend/.env` or a gitignored `calendar_config.json` only.
+
 ---
 
 ## Troubleshooting
