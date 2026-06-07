@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+
+backend/.env
+.env
+office/**/job_profile.json
+office/**/resume.txt
+
+office/**/*.jsonl

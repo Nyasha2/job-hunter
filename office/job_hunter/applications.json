@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "applications": [
+    {
+      "id": "728701ca-5d53-4f33-aa0c-f1939ffdb643",
+      "job_id": "73358b33379982ef",
+      "title": "Founding Engineer",
+      "company": "MyDataValue",
+      "url": "https://www.python.org/jobs/8082/",
+      "status": "applying",
+      "stage_notes": "",
+      "auto_apply_eligible": false,
+      "answers": {},
+      "timeline_events": [
+        {
+          "at": "2026-06-07T05:06:34+00:00",
+          "type": "apply_start",
+          "message": "Started applying to \u201cFounding Engineer\u201d"
+        }
+      ],
+      "created_at": "2026-06-07T05:06:34+00:00",
+      "updated_at": "2026-06-07T05:06:34+00:00"
+    },
+    {
+      "id": "efc3e37c-a8bb-435b-97f7-9f4cda57ed38",
+      "job_id": "test-1",
+      "title": "Test Role",
+      "company": "Acme",
+      "url": "https://example.com/apply",
+      "status": "applying",
+      "stage_notes": "",
+      "auto_apply_eligible": false,
+      "answers": {},
+      "timeline_events": [
+        {
+          "at": "2026-06-07T05:04:18+00:00",
+          "type": "apply_start",
+          "message": "Started applying to \u201cTest Role\u201d"
+        }
+      ],
+      "created_at": "2026-06-07T05:04:18+00:00",
+      "updated_at": "2026-06-07T05:04:18+00:00"
+    },
+    {
+      "id": "a88bb9b8-631d-41f4-a65b-5921f98e21ac",
+      "job_id": "8670b32253aa3ea5",
+      "title": "Junior DevOps Engineer",
+      "company": "Patrick J. McGovern Foundation",
+      "url": "https://www.python.org/jobs/8075/",
+      "status": "saved",
+      "stage_notes": "",
+      "auto_apply_eligible": false,
+      "answers": {},
+      "timeline_events": [
+        {
+          "at": "2026-06-07T05:01:25+00:00",
+          "type": "saved",
+          "message": "Saved \u201cJunior DevOps Engineer\u201d"
+        }
+      ],
+      "created_at": "2026-06-07T05:01:25+00:00",
+      "updated_at": "2026-06-07T05:01:25+00:00"
+    },
+    {
+      "id": "5cc9b595-0291-4f7c-af56-47f076d7c24e",
+      "job_id": "21e6544fb673bf24",
+      "title": "Research Advocate and Support Engineer",
+      "company": "Redivis, Inc.",
+      "url": "https://redivis.homerun.co/technical-evangelist-and-support-engineer/en",
+      "status": "applied",
+      "stage_notes": "",
+      "auto_apply_eligible": false,
+      "answers": {},
+      "timeline_events": [
+        {
+          "at": "2026-06-07T05:01:14+00:00",
+          "type": "applied",
+          "message": "Marked as applied \u2014 \u201cResearch Advocate and Support Engineer\u201d"
+        }
+      ],
+      "created_at": "2026-06-07T05:01:14+00:00",
+      "updated_at": "2026-06-07T05:01:14+00:00"
+    },
+    {
+      "id": "c78600f2-3076-4080-88a2-eb6e5a6d2532",
+      "job_id": "Not provided",
+      "title": "Senior Python Core Engineer",
+      "company": "Chime",
+      "url": "Not provided",
+      "status": "applying",
+      "stage_notes": "",
+      "auto_apply_eligible": false,
+      "answers": {},
+      "timeline_events": [
+        {
+          "at": "2026-06-07T05:01:08+00:00",
+          "type": "saved",
+          "message": "Saved \u201cSenior Python Core Engineer\u201d"
+        },
+        {
+          "at": "2026-06-07T05:05:21+00:00",
+          "type": "apply_start",
+          "message": "Started applying to \u201cSenior Python Core Engineer\u201d"
+        }
+      ],
+      "created_at": "2026-06-07T05:01:08+00:00",
+      "updated_at": "2026-06-07T05:07:19+00:00"
+    },
+    {
+      "id": "7b0a50cd-c5b1-4658-ad5e-2254d5450dfc",
+      "job_id": "9842ef3f772b8035",
+      "title": "Python Back-end Developer, Initialize",
+      "company": "Initialize",
+      "url": "https://www.python.org/jobs/8077/",
+      "status": "rejected",
+      "stage_notes": "",
+      "auto_apply_eligible": false,
+      "answers": {},
+      "timeline_events": [
+        {
+          "at": "2026-06-07T04:49:19+00:00",
+          "type": "saved",
+          "message": "Saved \u201cPython Back-end Developer, Initialize\u201d"
+        },
+        {
+          "at": "2026-06-07T04:49:59+00:00",
+          "type": "status_change",
+          "message": "Status updated to applied"
+        },
+        {
+          "at": "2026-06-07T04:50:18+00:00",
+          "type": "status_change",
+          "message": "Status updated to rejected"
+        }
+      ],
+      "created_at": "2026-06-07T04:49:19+00:00",
+      "updated_at": "2026-06-07T04:50:18+00:00"
+    }
+  ]
+}
